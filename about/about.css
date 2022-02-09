@@ -1,0 +1,469 @@
+:root {
+    --main-color: #ba24c2;
+    --body-bg: #434349;
+    --box-bg: #221f1f;
+    --text-color: #ffffff;
+
+    --nav-height: 10px;
+    --space-top: 10px;
+}
+
+
+html {
+    
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: var(--body-bg);
+    color: var(--text-color);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(1.jpg);
+   
+
+}
+
+
+
+#H3_3 {
+  block-size: 24px;
+  box-sizing: border-box;
+  height: 28px;
+  inline-size: 1078px;
+  margin-block-end: 0px;
+  margin-block-start: 70px;
+  perspective-origin: 539px 12px;
+  text-size-adjust: 100%;
+  transform-origin: 539px 12px;
+  width: 1078px;
+  color: violet;
+  font: 500 22px / 24.2px 
+  margin: 0px;
+} /*#H3_3*/
+
+#H3_3:after {
+  box-sizing: border-box;
+  text-size-adjust: 100%;
+  font: 500 22px / 24.2px 
+} /*#H3_3:after*/
+
+#H3_3:before {
+  box-sizing: border-box;
+  text-size-adjust: 100%;
+  font: 500 22px / 24.2px 
+} /*#H3_3:before*/
+
+#DIV_4 {
+  block-size: 485.906px;
+  bottom: 0px;
+  box-sizing: border-box;
+  float: left;
+  height: 485.906px;
+  inline-size: 1078px;
+  inset-block-end: 0px;
+  inset-block-start: 0px;
+  inset-inline-end: 0px;
+  inset-inline-start: 0px;
+  left: 0px;
+  min-block-size: 1px;
+  min-height: 1px;
+  perspective-origin: 539px 242.953px;
+  position: relative;
+  right: 0px;
+  text-size-adjust: 100%;
+  top: 0px;
+  transform-origin: 539px 242.953px;
+  width: 1078px;
+  font: 11.25px / 16.0714px "Comic Sans MS", "Comic Sans", cursive;
+} /*#DIV_4*/
+
+#DIV_4:after {
+  box-sizing: border-box;
+  text-size-adjust: 100%;
+  font: 11.25px / 16.0714px "Comic Sans MS", "Comic Sans", cursive;
+} /*#DIV_4:after*/
+
+#DIV_4:before {
+  box-sizing: border-box;
+  text-size-adjust: 100%;
+  font: 11.25px / 16.0714px "Comic Sans MS", "Comic Sans", cursive;
+} /*#DIV_4:before*/
+
+#P_5,
+#P_7 {
+  block-size: 80px;
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color:  #fff;
+  column-rule-color: rgb(119, 119, 119);
+  height: 80px;
+  inline-size: 1078px;
+  margin-block-end: 10px;
+  margin-block-start: 0px;
+  perspective-origin: 539px 40px;
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  transform-origin: 539px 40px;
+  width: 1078px;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  margin: 0px 0px 10px;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_5, #P_7*/
+
+#P_5:after,
+#P_7:after {
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color: rgb(119, 119, 119);
+  column-rule-color: rgb(119, 119, 119);
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_5:after, #P_7:after*/
+
+#P_5:before,
+#P_7:before {
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color: rgb(119, 119, 119);
+  column-rule-color: rgb(119, 119, 119);
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_5:before, #P_7:before*/
+
+#H4_6 {
+  block-size: 16px;
+  box-sizing: border-box;
+  height: 16px;
+  inline-size: 1078px;
+  margin-block-end: 14.9625px;
+  margin-block-start: 14.9625px;
+  perspective-origin: 539px 8px;
+  text-size-adjust: 100%;
+  transform-origin: 539px 8px;
+  width: 1078px;
+  font: 700 11.25px / 16.0714px "Comic Sans MS", "Comic Sans", cursive;
+  margin: 14.9625px 0px;
+} /*#H4_6*/
+
+#H4_6:after {
+  box-sizing: border-box;
+  text-size-adjust: 100%;
+  font: 700 11.25px / 16.0714px "Comic Sans MS", "Comic Sans", cursive;
+} /*#H4_6:after*/
+
+#H4_6:before {
+  box-sizing: border-box;
+  text-size-adjust: 100%;
+  font: 700 11.25px / 16.0714px "Comic Sans MS", "Comic Sans", cursive;
+} /*#H4_6:before*/
+
+#STRONG_8,
+#STRONG_10,
+#STRONG_12,
+#STRONG_14,
+#STRONG_16,
+#STRONG_18 {
+  border-block-end-color: rgb(85, 85, 85);
+  border-block-start-color: rgb(85, 85, 85);
+  border-inline-end-color: rgb(85, 85, 85);
+  border-inline-start-color: rgb(85, 85, 85);
+  box-sizing: border-box;
+  caret-color: rgb(85, 85, 85);
+  color:violet;
+  column-rule-color: rgb(85, 85, 85);
+  perspective-origin: 0px 0px;
+  text-decoration: none solid rgb(85, 85, 85);
+  text-size-adjust: 100%;
+  transform-origin: 0px 0px;
+  border: 0px none rgb(85, 85, 85);
+  font: 700 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(85, 85, 85) none 0px;
+} /*#STRONG_8, #STRONG_10, #STRONG_12, #STRONG_14, #STRONG_16, #STRONG_18*/
+
+#STRONG_8:after,
+#STRONG_10:after,
+#STRONG_12:after,
+#STRONG_14:after,
+#STRONG_16:after,
+#STRONG_18:after {
+  border-block-end-color: rgb(85, 85, 85);
+  border-block-start-color: rgb(85, 85, 85);
+  border-inline-end-color: rgb(85, 85, 85);
+  border-inline-start-color: rgb(85, 85, 85);
+  box-sizing: border-box;
+  caret-color: rgb(85, 85, 85);
+  color: rgb(85, 85, 85);
+  column-rule-color: rgb(85, 85, 85);
+  text-decoration: none solid rgb(85, 85, 85);
+  text-size-adjust: 100%;
+  border: 0px none rgb(85, 85, 85);
+  font: 700 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(85, 85, 85) none 0px;
+} /*#STRONG_8:after, #STRONG_10:after, #STRONG_12:after, #STRONG_14:after, #STRONG_16:after, #STRONG_18:after*/
+
+#STRONG_8:before,
+#STRONG_10:before,
+#STRONG_12:before,
+#STRONG_14:before,
+#STRONG_16:before,
+#STRONG_18:before {
+  border-block-end-color: rgb(85, 85, 85);
+  border-block-start-color: rgb(85, 85, 85);
+  border-inline-end-color: rgb(85, 85, 85);
+  border-inline-start-color: rgb(85, 85, 85);
+  box-sizing: border-box;
+  caret-color: rgb(85, 85, 85);
+  color: rgb(85, 85, 85);
+  column-rule-color: rgb(85, 85, 85);
+  text-decoration: none solid rgb(85, 85, 85);
+  text-size-adjust: 100%;
+  border: 0px none rgb(85, 85, 85);
+  font: 700 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(85, 85, 85) none 0px;
+} /*#STRONG_8:before, #STRONG_10:before, #STRONG_12:before, #STRONG_14:before, #STRONG_16:before, #STRONG_18:before*/
+
+#P_9,
+#P_15 {
+  block-size: 40px;
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color:  #fff;
+  column-rule-color: rgb(119, 119, 119);
+  height: 40px;
+  inline-size: 1078px;
+  margin-block-end: 10px;
+  margin-block-start: 0px;
+  perspective-origin: 539px 20px;
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  transform-origin: 539px 20px;
+  width: 1078px;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  margin: 0px 0px 10px;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_9, #P_15*/
+
+#P_9:after,
+#P_15:after {
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color: rgb(119, 119, 119);
+  column-rule-color: rgb(119, 119, 119);
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_9:after, #P_15:after*/
+
+#P_9:before,
+#P_15:before {
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color: rgb(119, 119, 119);
+  column-rule-color: rgb(119, 119, 119);
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_9:before, #P_15:before*/
+
+#P_11,
+#P_13 {
+  block-size: 60px;
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color:  #fff;
+  column-rule-color: rgb(119, 119, 119);
+  height: 60px;
+  inline-size: 1078px;
+  margin-block-end: 10px;
+  margin-block-start: 0px;
+  perspective-origin: 539px 30px;
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  transform-origin: 539px 30px;
+  width: 1078px;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  margin: 0px 0px 10px;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_11, #P_13*/
+
+#P_11:after,
+#P_13:after {
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color: rgb(119, 119, 119);
+  column-rule-color: rgb(119, 119, 119);
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_11:after, #P_13:after*/
+
+#P_11:before,
+#P_13:before {
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color: rgb(119, 119, 119);
+  column-rule-color: rgb(119, 119, 119);
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_11:before, #P_13:before*/
+
+#P_17 {
+  block-size: 20px;
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color:  #fff;
+  column-rule-color: rgb(119, 119, 119);
+  height: 20px;
+  inline-size: 1078px;
+  margin-block-end: 10px;
+  margin-block-start: 0px;
+  perspective-origin: 539px 10px;
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  transform-origin: 539px 10px;
+  width: 1078px;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  margin: 0px 0px 10px;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_17*/
+
+#P_17:after {
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color: rgb(119, 119, 119);
+  column-rule-color: rgb(119, 119, 119);
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_17:after*/
+
+#P_17:before {
+  border-block-end-color: rgb(119, 119, 119);
+  border-block-start-color: rgb(119, 119, 119);
+  border-inline-end-color: rgb(119, 119, 119);
+  border-inline-start-color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  caret-color: rgb(119, 119, 119);
+  color: rgb(119, 119, 119);
+  column-rule-color: rgb(119, 119, 119);
+  text-decoration: none solid rgb(119, 119, 119);
+  text-size-adjust: 100%;
+  border: 0px none rgb(119, 119, 119);
+  font: 300 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(119, 119, 119) none 0px;
+} /*#P_17:before*/
+
+#A_19 {
+  border-block-end-color: rgb(31, 128, 224);
+  border-block-start-color: rgb(31, 128, 224);
+  border-inline-end-color: rgb(31, 128, 224);
+  border-inline-start-color: rgb(31, 128, 224);
+  box-sizing: border-box;
+  caret-color: rgb(31, 128, 224);
+  color: rgb(31, 128, 224);
+  column-rule-color: rgb(31, 128, 224);
+  perspective-origin: 0px 0px;
+  text-decoration: none solid rgb(31, 128, 224);
+  text-size-adjust: 100%;
+  transform-origin: 0px 0px;
+  border: 0px none rgb(31, 128, 224);
+  font: 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(31, 128, 224) none 0px;
+} /*#A_19*/
+
+#A_19:after {
+  border-block-end-color: rgb(31, 128, 224);
+  border-block-start-color: rgb(31, 128, 224);
+  border-inline-end-color: rgb(31, 128, 224);
+  border-inline-start-color: rgb(31, 128, 224);
+  box-sizing: border-box;
+  caret-color: rgb(31, 128, 224);
+  color: rgb(31, 128, 224);
+  column-rule-color: rgb(31, 128, 224);
+  text-decoration: none solid rgb(31, 128, 224);
+  text-size-adjust: 100%;
+  border: 0px none rgb(31, 128, 224);
+  font: 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(31, 128, 224) none 0px;
+} /*#A_19:after*/
+
+#A_19:before {
+  border-block-end-color: rgb(31, 128, 224);
+  border-block-start-color: rgb(31, 128, 224);
+  border-inline-end-color: rgb(31, 128, 224);
+  border-inline-start-color: rgb(31, 128, 224);
+  box-sizing: border-box;
+  caret-color: rgb(31, 128, 224);
+  color: rgb(31, 128, 224);
+  column-rule-color: rgb(31, 128, 224);
+  text-decoration: none solid rgb(31, 128, 224);
+  text-size-adjust: 100%;
+  border: 0px none rgb(31, 128, 224);
+  font: 14px / 20px "Comic Sans MS", "Comic Sans", cursive;
+  outline: rgb(31, 128, 224) none 0px;
+} /*#A_19:before*/
